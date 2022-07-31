@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/outfit-store-ReactJS-/static/css/main.d2057c44.css",
+    "main.js": "/outfit-store-ReactJS-/static/js/main.d01fb91f.js",
+    "index.html": "/outfit-store-ReactJS-/index.html",
+    "main.d2057c44.css.map": "/outfit-store-ReactJS-/static/css/main.d2057c44.css.map",
+    "main.d01fb91f.js.map": "/outfit-store-ReactJS-/static/js/main.d01fb91f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2057c44.css",
+    "static/js/main.d01fb91f.js"
+  ]
+}
